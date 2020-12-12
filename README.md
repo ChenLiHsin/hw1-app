@@ -72,8 +72,10 @@
     ![](https://i.imgur.com/aKclH46.png)
 
   5. Open the website as we done before.   
-    Successfully display the HTML file which I wrote before and run the classification model correctly.   
-    ![Uploading file..._digo646y1]()
+    Successfully display the HTML file which I wrote before and run the classification model correctly.  
+    ![Imgur](https://i.imgur.com/OZjdQn4.jpg)
+
+
 
 ## **Reference**  
   [Nginx and Mapping](https://ithelp.ithome.com.tw/articles/10199993)  
